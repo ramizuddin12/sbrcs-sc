@@ -1,2 +1,2 @@
 # sbrcs-sc
-webprojects
+https://ramizuddin12.github.io/sbrcs-sc/
